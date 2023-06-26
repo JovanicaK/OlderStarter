@@ -1,0 +1,18 @@
+.products {
+    position: relative;
+}
+
+.products__row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.products__col {
+    flex: 1 1 50%;
+    max-width: 50%;
+}
+
+.products-img {
+    position: relative;
+    
+}

@@ -1,0 +1,23 @@
+// 1. config
+@import 'config/reset';
+@import 'config/variables';
+@import 'config/mixins';
+@import 'config/typography';
+@import 'config/iconfont';
+@import 'config/helpers';
+
+//2. components
+@import 'components/buttons';
+@import 'components/banner';
+
+//3. layout
+@import 'layout/header';
+@import 'layout/footer';
+
+//4. pages
+@import 'pages/home';
+
+
+// nvm list - komanda za listu verzija
+// nvm install {verz} - instalacija verzije (nvm install 8.11.3)
+// nvm use {verz} - upotreba verzije
